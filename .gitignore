@@ -1,0 +1,13 @@
+mlflow_env/
+mlruns/
+mlartifacts/
+1-MLproject/mlartifacts/
+2-DLMLFLOW/mlruns/
+__pycache__/
+*.pyc
+*.pkl
+*.h5
+*.keras
+*.ckpt
+.ipynb_checkpoints/
+.env
